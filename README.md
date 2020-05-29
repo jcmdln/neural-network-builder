@@ -1,6 +1,5 @@
 # This project was built in PyCharm
-## The best way to view this project is by utilizing pipfile.lock to create
-## the pipenv that this app was designed with
+### The best way to view this project is by utilizing pipfile.lock to create the pipenv that this app was designed with
 
 ### This app will require streamlit (installed within pipfile.lock) to be initialized and utilized in order to run.
 ## Once you have cloned the repo to a local IDE
