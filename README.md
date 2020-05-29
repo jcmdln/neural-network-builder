@@ -2,8 +2,7 @@
 ## The best way to view this project is by utilizing pipfile.lock to create
 ## the pipenv that this app was designed with
 
-# This app will require streamlit (installed within pipfile.lock) to be
-# initialized and utilized in order to run.
+### This app will require streamlit (installed within pipfile.lock) to be initialized and utilized in order to run.
 ## Once you have cloned the repo to a local IDE
 1. Make sure you are within the correct pipenv
 2. In your terminal run
