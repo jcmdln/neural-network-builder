@@ -1,0 +1,15 @@
+churn_bucket,customer_locale,sales_lead,sales_channel,discount,product,DC,call_needed,call_result,product_line,subscription_type,30_contacts,60_contacts,90_contacts
+Active,Domestic,Unknown,Internal,0,Launch,WC,Unknown,Unknown,Business Class,Additional,0,0,0
+Within 30,Domestic,Unknown,Internal,0,Essential,WC,Unknown,Unknown,Dedicated,Additional,0,0,1
+Within 60,Domestic,Unknown,Internal,0.5,VPS-1000HA-S,WC,Unknown,Unknown,VPS,Additional,5,6,6
+Active,Domestic,Unknown,Internal,0.5,Advanced - 1 Month,WC,Unknown,Unknown,Dedicated,Additional,9,9,9
+After 90,Domestic,Unknown,Internal,0.250313,Launch,EC,Unknown,Unknown,Business Class,Additional,0,0,0
+Within 10,Domestic,Unknown,Internal,0.170189,Launch,WC,Unknown,Unknown,Business Class,Additional,1,1,1
+Within 10,Domestic,Unknown,Internal,0.130118,Power,WC,Unknown,Unknown,Business Class,Additional,0,0,0
+Active,Domestic,Unknown,Internal,0.15015,Power,EC,Unknown,Unknown,Business Class,Additional,0,0,0
+Within 10,Domestic,Unknown,Internal,0,Launch,WC,Unknown,Unknown,Business Class,Additional,0,0,0
+Active,Domestic,Unknown,Internal,0.170189,Launch,EC,Unknown,Unknown,Business Class,Additional,0,0,0
+Within 10,Foreign,Unknown,Internal,0,VPS-2000HA-S,EC,Unknown,Unknown,VPS,Additional,0,0,0
+Active,Domestic,Organic,Internal,0.387568,Launch,EC,Unknown,Unknown,Business Class,Additional,3,3,3
+Active,Domestic,Unknown,Internal,0.5,WP-2000S,EC,Unknown,Unknown,Wordpress,Additional,1,5,5
+Active,Domestic,Unknown,Internal,0.272777,Reseller VPS-1000 - 1 Year,EC,Unknown,Unknown,Reseller,Additional,3,3,3
